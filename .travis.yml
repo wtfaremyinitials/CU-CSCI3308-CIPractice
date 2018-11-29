@@ -1,4 +1,4 @@
-install: make dep
 language: c
-script: make test
+compiler: gcc
+script: make dep && make test
 
