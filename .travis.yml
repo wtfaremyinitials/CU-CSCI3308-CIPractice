@@ -1,3 +1,4 @@
 install: make dep
 language: c
 script: make test
+
